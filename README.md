@@ -3,6 +3,7 @@
 
 
 ## Question 1 | Unexpected Demand
+
 ```
 A widget manufacturer is facing unexpectedly high demand for its new product,. They would like to satisfy as many customers as possible. Given a number of widgets available and a list of customer orders, what is the maximum number of orders the manufacturer can fulfill in full?
 
@@ -67,7 +68,13 @@ order = [5,4,6] with 3 widgets available
 
 None of the orders can be fulfilled.
 ```
-
+```py
+# The function is expected to return an INTEGER.
+# The function accepts following parameters:
+#  1. INTEGER_ARRAY order
+#  2. INTEGER k
+#
+```
 ## Question 2 | String Anagram
 ```
 
