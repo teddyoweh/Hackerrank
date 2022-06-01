@@ -5,13 +5,17 @@
 ## Question 1 | Unexpected Demand
 
 ```
-A widget manufacturer is facing unexpectedly high demand for its new product,. They would like to satisfy as many customers as possible. Given a number of widgets available and a list of customer orders, what is the maximum number of orders the manufacturer can fulfill in full?
+A widget manufacturer is facing unexpectedly high demand for its new product.
+ They would like to satisfy as many customers as possible.
+  Given a number of widgets available and a list of customer orders,
+   what is the maximum number of orders the manufacturer can fulfill in full?
 
  
 
 Function Description
 
-Complete the function filledOrders in the editor below. The function must return a single integer denoting the maximum possible number of fulfilled orders.
+Complete the function filledOrders in the editor below. 
+The function must return a single integer denoting the maximum possible number of fulfilled orders.
 
  
 
@@ -78,7 +82,13 @@ None of the orders can be fulfilled.
 ## Question 2 | String Anagram
 ```
 
-An anagram of a string is another string with the same characters in the same frequency, in any order. For example 'abc', 'bca', 'acb', 'bac', 'cba', 'cab' are all anagrams of the string 'abc'. Given two arrays of strings, for every string in one list, determine how many anagrams of it are in the other list. Write a function that receives dictionary and query, two string arrays. It should return an array of integers where each element i contains the number of anagrams of query[i] that exist in dictionary.
+An anagram of a string is another string with the same characters in the same frequency,
+ in any order. For example 'abc', 'bca', 'acb', 'bac', 'cba', 'cab' are all anagrams of the string 'abc'. 
+ Given two arrays of strings, for every string in one list, 
+ determine how many anagrams of it are in the other list. 
+ Write a function that receives dictionary and query, 
+ two string arrays. It should return an array of integers
+  where each element i contains the number of anagrams of query[i] that exist in dictionary.
 
  
 
